@@ -1,0 +1,50 @@
+
+body{
+    
+    background-color: black;
+}
+h1{
+    color: yellow;
+}
+h2
+{
+  color: yellow;
+}
+.semblanza{
+    font-size: 20px;
+    color: darkred;
+}
+.titulo{
+    color: yellow;
+}
+.columna_derecha{
+    margin: 2%;
+    float: right;
+    width: 60%; 
+}
+.columna_izquiera{
+    float: left;
+    width: 25%;
+}
+.imagen_principal{
+    height: 50%;
+    width: 40%;
+    float: right;
+    margin-left: 5px;
+}
+.cuervo{
+    height: 20%;
+    width: 30%;
+}
+ul,li, a{
+    color: darkmagenta;
+    font-size: 18px;
+}
+p{
+    padding-left: 3px;
+    color: red;
+    text-align: justify;
+}
+.contenedor{
+    overflow: hidden;
+} 

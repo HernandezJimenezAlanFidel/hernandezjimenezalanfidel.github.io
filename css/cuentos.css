@@ -1,0 +1,88 @@
+
+ /***************************/
+ /** pagina principal**/
+ /***************************/
+ body{
+    background-color: black;
+}
+.cabecera{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 40px;
+    width: 60%;
+    height: 250px; 
+  }
+
+.imagen{
+    width: 105%;
+    height: 100%;
+    float: left;
+}
+.cuento{
+    width: 60%;
+    height: 380px;
+    background-color: rgb(9, 1, 12);
+    margin-top: 100px;
+    margin-left: 1%;
+    overflow: scroll;
+    border-radius: 2%;
+    color: rgba(228, 124, 83, 0.938);
+  }
+
+.imagen_derecha{
+    height: 100%;
+    width: 100%; 
+ 
+}
+
+.columna_derecha{
+    float: right;
+    width: 36%; 
+    height: 800px;
+}
+
+.glosario{
+    width: 60%;
+    height: 300px;
+    background-color: rgb(11, 5, 37);
+    margin-top: 100px;
+    margin-left: 1%;
+    overflow: scroll;
+    border-radius: 2%;
+    color: rgb(15, 182, 154);
+    text-align: center;   
+}
+
+.opinion{
+    width: 60%;
+    height: 200px;
+    background-color: rgb(11, 5, 37);
+    margin-top: 100px;
+    margin-left: 1%;
+    overflow: scroll;
+    border-radius: 2%;
+    color: rgb(15, 182, 154);
+}
+
+h1{
+    color: rgb(121, 156, 137);
+    font-size: 30px;
+}
+li{
+    color: rgb(195, 212, 210);
+}
+a{
+    color: rgb(126, 192, 204);
+    font-size: 25px;
+}
+p{
+    text-align: justify;
+}
+strong{
+    color: white;
+    font-size: 120%;
+  }
+.contenedor{
+    overflow: hidden;
+    
+}
